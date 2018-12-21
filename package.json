@@ -4,7 +4,7 @@
   "nbbpm": {
     "compatibility": "^1.11.0"
   },
-  "description": "Material Design theme for NodeBB (with no top-menu)",
+  "description": "Material Design theme for NodeBB",
   "main": "theme.less",
   "repository": {
     "type": "git",
