@@ -28,5 +28,7 @@
 </head>
 
 <body class="{bodyClass} theme-{config.selectedSkin}">
-	<div class="container" id="content">
+    <!-- IMPORT partials/menu.tpl -->
+
+	<div class="container-fluid" id="content">
 	<!-- IMPORT partials/noscript/warning.tpl -->
