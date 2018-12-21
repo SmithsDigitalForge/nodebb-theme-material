@@ -1,10 +1,10 @@
 {
-  "name": "nodebb-theme-material",
-  "version": "2.12.6",
+  "name": "nodebb-theme-material-no-menu",
+  "version": "2.12.4-1",
   "nbbpm": {
-    "compatibility": "^1.11.0"
+    "compatibility": "^1.10.0"
   },
-  "description": "Material Design theme for NodeBB",
+  "description": "Material Design theme for NodeBB (with no menu)",
   "main": "theme.less",
   "repository": {
     "type": "git",
